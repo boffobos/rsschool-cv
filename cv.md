@@ -13,11 +13,13 @@
 ### Skills
 * HTML/CSS
 * JS/TS
+* PHP
 * React
 * NodeJS
 * Git
 * Express
 * PostgreSQL
+* MVC pattern
 
 ***
 
@@ -42,3 +44,12 @@ function partitionOn(pred, items) {
  * [Simple weather application](https://joyd-weather-application.herokuapp.com/)
  
 
+### Education
+* **Belatusian State University Informatics and Radioelectronics**: Faculty of Radioengineering and electronics
+* **Skillfactory online school**: web-development
+* **iTechArt**: React/React native intern
+* **Udemy**: OOP PHP & MVC, HTML/CSS, NodeJS
+
+### Languages:
+    * English - B1
+    * Russian - Native
